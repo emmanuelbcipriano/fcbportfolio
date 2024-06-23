@@ -189,7 +189,7 @@ hr{
 .header-container{
     display: flex;
     justify-content: center;
-    max-width: 50%;
+    max-width: 25%;
     word-wrap: 400px;
     margin: 0 auto;
 }
